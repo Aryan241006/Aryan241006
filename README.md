@@ -1,1 +1,0 @@
-![Aryan Anand](./banner.svg)
